@@ -1,0 +1,451 @@
+/* Gibson font start */
+
+
+@font-face {
+    font-family: 'Gibson-Bold';
+    src: url('../fonts/Gibson-Bold.eot');
+    src: url('../fonts/Gibson-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gibson-Bold.woff2') format('woff2'),
+        url('../fonts/Gibson-Bold.woff') format('woff'),
+        url('../fonts/Gibson-Bold.ttf') format('truetype'),
+        url('../fonts/Gibson-Bold.svg#Gibson-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gibson-BoldItalic';
+    src: url('../fonts/Gibson-BoldItalic.eot');
+    src: url('../fonts/Gibson-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gibson-BoldItalic.woff2') format('woff2'),
+        url('../fonts/Gibson-BoldItalic.woff') format('woff'),
+        url('../fonts/Gibson-BoldItalic.ttf') format('truetype'),
+        url('../fonts/Gibson-BoldItalic.svg#Gibson-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gibson-RegularItalic';
+    src: url('../fonts/Gibson-RegularItalic.eot');
+    src: url('../fonts/Gibson-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gibson-RegularItalic.woff2') format('woff2'),
+        url('../fonts/Gibson-RegularItalic.woff') format('woff'),
+        url('../fonts/Gibson-RegularItalic.ttf') format('truetype'),
+        url('../fonts/Gibson-RegularItalic.svg#Gibson-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gibson-Regular';
+    src: url('../fonts/Gibson-Regular.eot');
+    src: url('../fonts/Gibson-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Gibson-Regular.woff2') format('woff2'),
+        url('../fonts/Gibson-Regular.woff') format('woff'),
+        url('../fonts/Gibson-Regular.ttf') format('truetype'),
+        url('../fonts/Gibson-Regular.svg#Gibson-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* gibson font end  */
+
+/* Rock font start */
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideExtraBoldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideLightRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideLightRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideLightRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideLightRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideLightRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideLightRegular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExWide ExLight';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExWideExLightRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExWideExLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExWideExLightRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExWideExLightRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExWideExLightRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExWideExLightRegular.svg#FONTSPRINGDEMO-RocGroteskExWideExLightRegular') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBold.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBold.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBold.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBold.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideBold.svg#FONTSPRINGDEMO-RocGroteskExtraWideBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideMediumRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roc-Grotesk-Regular';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedRegular.svg#FONTSPRINGDEMO-RocGroteskCondensedRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideThinRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideThinRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideThinRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideThinRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideThinRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideThinRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideThinRegular') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideBlackRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBlackRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBlackRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBlackRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBlackRegular.svg#FONTSPRINGDEMO-RocGroteskWideBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Condensed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedMediumRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedMediumRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedMediumRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedMediumRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedMediumRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedMediumRegular.svg#FONTSPRINGDEMO-RocGroteskCondensedMediumRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Condensed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular.svg#FONTSPRINGDEMO-RocGroteskCondensedHeavyRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Condensed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBold.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBold.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBold.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBold.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBold.svg#FONTSPRINGDEMO-RocGroteskCondensedBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk ExtraWide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular.svg#FONTSPRINGDEMO-RocGroteskExtraWideHeavyRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Condensed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular.svg#FONTSPRINGDEMO-RocGroteskCondensedExtraBoldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideBold.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBold.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBold.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBold.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideBold.svg#FONTSPRINGDEMO-RocGroteskWideBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Condensed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBlackRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBlackRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBlackRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBlackRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCondensedBlackRegular.svg#FONTSPRINGDEMO-RocGroteskCondensedBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Compressed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBold.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBold.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBold.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBold.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBold.svg#FONTSPRINGDEMO-RocGroteskCompressedBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Compressed ExLight';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExLightRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExLightRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExLightRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExLightRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExLightRegular.svg#FONTSPRINGDEMO-RocGroteskCompressedExLightRegular') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular.svg#FONTSPRINGDEMO-RocGroteskWideExtraBoldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideHeavyRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideHeavyRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideHeavyRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideHeavyRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideHeavyRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideHeavyRegular.svg#FONTSPRINGDEMO-RocGroteskWideHeavyRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'font-spring-bold';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskBold.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBold.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBold.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBold.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBold.svg#FONTSPRINGDEMO-RocGroteskBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideLightRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideLightRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideLightRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideLightRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideLightRegular.svg#FONTSPRINGDEMO-RocGroteskWideLightRegular') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roc-Grotesk-WideRegular';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideRegular.svg#FONTSPRINGDEMO-RocGroteskWideRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideMediumRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideMediumRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideMediumRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideMediumRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideMediumRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideMediumRegular.svg#FONTSPRINGDEMO-RocGroteskWideMediumRegular') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Compressed';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBlackRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBlackRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBlackRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBlackRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedBlackRegular.svg#FONTSPRINGDEMO-RocGroteskCompressedBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskBlackRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskBlackRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBlackRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBlackRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBlackRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskBlackRegular.svg#FONTSPRINGDEMO-RocGroteskBlackRegular') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideThinRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideThinRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideThinRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideThinRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideThinRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideThinRegular.svg#FONTSPRINGDEMO-RocGroteskWideThinRegular') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Compressed ExBold';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular.svg#FONTSPRINGDEMO-RocGroteskCompressedExBoldRegular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FONTSPRING DEMO - Roc Grotesk Wide';
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraLightRegular.eot');
+    src: url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraLightRegular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraLightRegular.woff2') format('woff2'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraLightRegular.woff') format('woff'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraLightRegular.ttf') format('truetype'),
+        url('../fonts/FONTSPRINGDEMO-RocGroteskWideExtraLightRegular.svg#FONTSPRINGDEMO-RocGroteskWideExtraLightRegular') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/* rock font end */

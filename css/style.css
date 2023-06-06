@@ -1,0 +1,300 @@
+@import './varibale.css';
+@import './fontStylesheet.css';
+
+
+body{
+    background-color: var(--primary-bg-color);
+    color: var(--primary-text);
+    overflow-x: hidden;
+}
+
+
+header .navbar-dark{
+    border-top: 1px solid var(--border-white);
+    border-bottom: 1px solid var(--border-white);
+}
+
+.headerTitle{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.headerTitle p{
+    margin-bottom: 0px;
+}
+
+.headerTitle .spotLightHeader{
+    font-size: var(--fs-40);
+    letter-spacing: 1px;
+    line-height: var(--lh-45);
+    font-family: var(--font-Roc-Regular);
+}
+
+.headerTitle .spotTitle{
+    font-size: var(--fs-90);
+letter-spacing: 3px;
+line-height: var(--lh-94);
+font-family: var(--font-Roc-Bold);
+}
+
+.headerTitle .spotExpr{
+    font-size: var(--fs-90);
+letter-spacing: 3px;
+line-height: var(--lh-94);
+font-family: var(--font-Roc-Bold);
+}
+
+.headerTitle .logoImage{
+    margin-left: 10px;
+}
+
+
+.headerTitle .imageTextContainer{
+    padding-left: 76px;
+    margin-top: 10px;
+}
+.headerTitle .imageTextContainer p{
+    font-size: var(--fs-34);
+    letter-spacing: 1px;
+    line-height: var(--lh-39);
+    /* font-weight: 300; */
+    font-family: var(--font-Roc-Regular);
+}
+
+
+.dicussionBoxContainer .storyContainer .title { 
+font-size: var(--fs-40);
+letter-spacing: 1px;
+line-height: var(--lh-60);
+text-transform: uppercase;
+color: var(--secondary-text);
+ font-family: var(--font-Roc-Regular);
+}
+
+.dicussionBoxContainer .storyContainer .storyDescription p{
+font-size: var(--fs-25);
+letter-spacing: 0px;
+line-height:var(--lh-30);
+color: #ffffff;
+font-family: var(--font-Gibson-Regular);
+
+}
+
+.dicussionBoxContainer .storyContainer .storyDescription .storyRow{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dicussionBoxContainer .storyContainer .storyDescription{
+    position: relative;
+    margin-bottom: 30px;
+}
+
+.dicussionBoxContainer .storyContainer .storyDescription .image-bck-Container{
+position: absolute;
+transform: translate(-46%, -31%);
+z-index: -1;
+}
+
+
+
+ .virtualEvents .events-Decription{
+border-top: 1px solid var(--border-white);
+border-bottom: 1px solid var(--border-white);
+background-color: var(--primary-bg-color);
+position: relative;
+z-index: 1;
+text-align: center;
+padding: 10px 0px 0px 0px;
+margin-bottom: 50px;
+}
+ .virtualEvents .events-Decription p{
+    text-transform: uppercase;
+    font-family: var(--font-Roc-Regular);
+    font-size: var(--fs-30);
+    line-height: var(--lh-40);
+    font-weight: 500;
+}
+
+
+
+/* open doors css start region */
+
+.openDoors .doorsTitle{
+    font-size: var(--fs-50);
+    letter-spacing: 1px;
+    line-height: var(--lh-60);
+    text-transform: uppercase;
+    font-family: var(--font-Roc-Regular);
+}
+
+
+.openDoors .purpleTitle p{
+    color: var(--secondary-text);
+    font-family: var(--font-Roc-Regular);
+    font-size: var(--fs-46);
+    letter-spacing: 1px;
+    line-height: var(--lh-61);
+    padding-left: 70px;
+}
+
+.doorsText{
+    padding-left: 140px;
+}
+
+.doorsText .firstColText{
+    font-size: var(--fs-30);
+    letter-spacing: 0px;
+    line-height: var(--lh-40);
+    font-family: var(--font-Gibson-Regular);
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
+
+.doorsText  .doorTextTwo p{
+    font-size: var(--fs-30);
+    letter-spacing: 0px;
+    line-height: var(--lh-40);
+    font-family: var(--font-Gibson-Regular);
+    margin-bottom: 30px;
+}
+
+
+.title-collar p{
+    font-size: var(--fs-50);
+letter-spacing: 1px;
+line-height: var(--lh-60);
+text-transform: uppercase;
+font-family: var(--font-Roc-Regular);
+white-space: nowrap;
+}
+
+.title-collar .noCollarText{
+    font-family: var(--font-Roc-Bold);
+}
+
+.doorsText .collar-description p{
+    font-size: var(--fs-30);
+    letter-spacing: 0px;
+    line-height: var(--lh-40);
+    font-family: var(--font-Gibson-Regular);
+    margin-bottom: 30px;
+}
+
+.narrative-text  .narrtiveTitle p{
+    font-size: var(--fs-50);
+letter-spacing: 1px;
+line-height: var(--lh-60);
+text-transform: uppercase;
+font-family: var(--font-Roc-Regular);
+white-space: nowrap;
+}
+
+.narrative-text .narrtiveDescrip{
+    font-size: var(--fs-30);
+    letter-spacing: 0px;
+    line-height: var(--lh-40);
+    font-family: var(--font-Gibson-Regular);
+    padding-left: 158px;
+}
+
+
+
+
+/* media queries */
+@media (max-width:767px){
+    .headerTitle .spotLightHeader{
+        font-size: var(--fs-18);
+        line-height: var(--lh-20);
+    }
+
+    .headerTitle .spotTitle{
+        font-size: var(--fs-40);
+        line-height: var(--lh-42);
+    }
+    .headerTitle .spotExpr{
+        font-size: var(--fs-40);
+        line-height: var(--lh-42);
+    }
+.headerTitle{
+    padding: 20px;
+}
+
+.headerTitle .imageTextContainer{
+    padding-left: 0px;
+}
+
+.dicussionBoxContainer .storyContainer .storyDescription p{
+    font-size: var(--fs-18);
+    line-height: var(--lh-22);
+}
+
+.virtualEvents .events-Decription p{
+    font-size: var(--fs-18);
+    line-height: var(--lh-24);
+}
+.openDoors .purpleTitle p{
+    padding-left: 0px;
+    font-size: var(--fs-19);
+    line-height: var(--lh-22);
+}
+.doorsText{
+    padding-left: 0px;
+}
+
+.openDoors .doorsTitle{
+    font-size: var(--fs-30);
+    line-height: var(--lh-35);
+}
+.doorsText .firstColText , .doorsText .doorTextTwo p{
+    font-size: var(--fs-18);
+    line-height: var(--lh-22);
+}
+
+.doorsText .firstColText{
+    margin-left: 0px;
+}
+
+.narrative-text .narrtiveDescrip{
+    padding-left: 0px;
+    font-size: var(--fs-18);
+    line-height: var(--lh-22);
+    
+}
+
+.narrative-text .narrtiveTitle p{
+    font-size: var(--fs-25);
+    line-height: var(--lh-22);
+}
+
+.narrative-text .narrtiveTitle p:nth-child(2){
+    color: var(--secondary-text);
+}
+
+.title-collar p, .noCollarText {
+    font-size: var(--fs-25);
+    line-height: var(--lh-30);
+}
+
+.doorsText .collar-description p{
+    font-size: var(--fs-18);
+    line-height: var(--lh-22);
+}
+
+.dicussionBoxContainer , .openDoors{
+    padding: 0px 15px;
+}
+
+
+
+}
+
+@media (max-width:1439){
+    .dicussionBoxContainer .storyContainer .storyDescription .image-bck-Container{
+        display: none;
+     }
+
+     body{
+        overflow-x: hidden;
+     }
+}

@@ -1,0 +1,68 @@
+@import './fontStylesheet.css';
+
+:root{
+
+    /* text colors */
+    --primary-text:#ffffff;
+    --secondary-text:#896fff;
+    
+    
+    
+    
+    
+    
+    /* background colors */
+    --primary-bg-color:#17171B;
+
+
+
+
+    /* border colors */
+
+    --border-white:#ffffff;
+
+
+    /* font-sizes */
+     --fs-10:10px;
+     --fs-11:11px;
+     --fs-12:12px;
+     --fs-13:13px;
+     --fs-14:14px;
+     --fs-15:15px;
+     --fs-16:16px;
+     --fs-17:17px;
+     --fs-18:18px;
+     --fs-19:19px;
+     --fs-20:20px;
+     --fs-25:25px;
+     --fs-30:30px;
+     --fs-34:34px;
+     --fs-40:40px;
+     --fs-46:46px;
+     --fs-50:50px;
+     --fs-90:90px;
+
+
+
+     /* font family */
+ --font-Roc-Regular:'Roc-Grotesk-Regular' sans-serif;
+ --font-Roc-Bold:'font-spring-bold';
+--font-Gibson-Regular:'Gibson-Regular';
+
+
+
+
+/* line height */
+--lh-20:20px;
+--lh-24:24px;
+--lh-30:30px;
+--lh-35:35px;
+--lh-39:39px;
+--lh-40:40px;
+--lh-42:42px;
+--lh-45:45px;
+--lh-60:60px;
+--lh-61:61px;
+--lh-94:94px;
+
+}
